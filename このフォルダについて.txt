@@ -1,12 +1,12 @@
-‚±‚ê‚ÍGIT‚ÌƒeƒXƒg—pƒtƒHƒ‹ƒ_‚Å‚·B
-git config --global user.name "<ƒ†[ƒU[–¼>"
-git config --global user.email <ƒ[ƒ‹ƒAƒhƒŒƒX>
-git remote set-url origin https://<ƒ†[ƒU–¼>@github.com/<ƒ†[ƒU–¼>/<ƒŠƒ|ƒWƒgƒŠ–¼>.git
+ã“ã‚Œã¯GITã®ãƒ†ã‚¹ãƒˆç”¨ãƒ•ã‚©ãƒ«ãƒ€ã§ã™ã€‚
+git config --global user.name "<ãƒ¦ãƒ¼ã‚¶ãƒ¼å>"
+git config --global user.email <ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹>
+git remote set-url origin https://<ãƒ¦ãƒ¼ã‚¶å>@github.com/<ãƒ¦ãƒ¼ã‚¶å>/<ãƒªãƒã‚¸ãƒˆãƒªå>.git
 
 
-git config --global user.name "misoda"
+git config --global user.name misoda
 git config --global user.email isoda@pobox.com
 git remote set-url origin https://misoda@github.com/misoda/tameshi.git
 
-ƒNƒ[ƒ“‚µ‚Ä‚©‚çC³‚µ‚Ü‚µ‚½
+ã‚¯ãƒ­ãƒ¼ãƒ³ã—ã¦ã‹ã‚‰ä¿®æ­£ã—ã¾ã—ãŸ
 
