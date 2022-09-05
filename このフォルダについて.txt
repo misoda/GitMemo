@@ -1,1 +1,11 @@
 これはGITのテスト用フォルダです。
+git config --global user.name "<ユーザー名>"
+git config --global user.email <メールアドレス>
+git remote set-url origin https://<ユーザ名>@github.com/<ユーザ名>/<リポジトリ名>.git
+
+
+git config --global user.name "misoda"
+git config --global user.email isoda@pobox.com
+git remote set-url origin https://misoda@github.com/misoda/tameshi.git
+
+
