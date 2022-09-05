@@ -8,4 +8,5 @@ git config --global user.name "misoda"
 git config --global user.email isoda@pobox.com
 git remote set-url origin https://misoda@github.com/misoda/tameshi.git
 
+ƒNƒ[ƒ“‚µ‚Ä‚©‚çC³‚µ‚Ü‚µ‚½
 
