@@ -9,4 +9,5 @@ git config --global user.email isoda@pobox.com
 git remote set-url origin https://misoda@github.com/misoda/tameshi.git
 
 クローンしてから修正しました
+もうひとつ修正した。
 
