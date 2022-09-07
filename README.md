@@ -15,3 +15,6 @@ msjtest01 が Collaborators に追加された。
 おかしいなあ。もう一度。
 
 msjtest01 だよ
+
+名前はMICHIO  
+アカウントは msjtest01  
