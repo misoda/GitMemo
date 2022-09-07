@@ -19,3 +19,5 @@ msjtest01 だよ
 名前はMICHIO  
 アカウントは msjtest01  
 もう一度
+アカウントは misoda
+名前はMICHIO
