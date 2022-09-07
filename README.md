@@ -13,3 +13,5 @@ msjtest01 アカウントで修正しました。
 msjtest01 が Collaborators に追加された。
 違った。もう一度コミット＆プッシュ。
 おかしいなあ。もう一度。
+
+msjtest01 だよ
