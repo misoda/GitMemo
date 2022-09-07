@@ -10,5 +10,6 @@ msjtest01 アカウントで修正しました。
 
 修正せよとのISSUEが来たので修正
 
-msjtest01 が Collaborators に追加されました。
+msjtest01 が Collaborators に追加された。
+違った。もう一度コミット＆プッシュ。
 
