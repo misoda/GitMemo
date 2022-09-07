@@ -11,3 +11,6 @@ git remote set-url origin https://misoda@github.com/misoda/tameshi.git
 クローンしてから修正しました
 もうひとつ修正した。
 
+
+msjtest01 で修正してみる。  
+
