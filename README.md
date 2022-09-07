@@ -18,3 +18,4 @@ msjtest01 だよ
 
 名前はMICHIO  
 アカウントは msjtest01  
+もう一度
