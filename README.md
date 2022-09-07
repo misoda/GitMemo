@@ -9,3 +9,6 @@ msjtest01 アカウントで修正しました。
 もう一度、msjtes01アカウントで修正しました。
 
 修正せよとのISSUEが来たので修正
+
+msjtest01 が Collaborators に追加されました。
+
